@@ -1,0 +1,11 @@
+# Write a program to print given number is positive or negative number.
+Num=float(input('input a number':)
+If n>=0:
+If n==0:
+Print(' It is a zero':)
+else:
+Print('Number is Postivite number.')
+Else:
+Print('Number is Negative number.')
+Output:
+ 8
